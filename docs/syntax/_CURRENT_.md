@@ -1,10 +1,10 @@
 # NOVA Language Specification
 
-### Current Version (v1.0)
+### Current Version (v1.1.0)
 
 This document serves as the entry point for the current NOVA documentation.
 
-NOVA v1.0 is the current stable release of the language.
+NOVA v1.1.0 is the current stable release of the language.
 
 Unlike traditional language specifications, the NOVA language specification is **incremental**. Each versioned specification documents the language features introduced in that release while building upon all previous versions. Together, these documents define the complete language.
 
@@ -70,7 +70,7 @@ Runnable example programs for every language release are available in:
 
 Release notes describe the evolution of NOVA across versions.
 
-* [NOVA v1.0.0 Release Notes](../releases/v1.0.0.md)
+* [NOVA v1.1.0 Release Notes](../releases/v1.1.0.md)
 * [Changelog](../releases/_CHANGELOG_.md)
 
 ---
