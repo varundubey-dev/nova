@@ -4,8 +4,8 @@
 
 *A simple, modern, statically-typed programming language implemented in Python.*
 
-[![Version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://github.com/varundubey-dev/nova/releases)
-[![Python](https://img.shields.io/badge/python-3.13+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](https://github.com/varundubey-dev/nova/releases)
+[![Python](https://img.shields.io/badge/python-3.10+-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-Stable-success.svg)](docs/releases/v1.0.0.md)
 [![Interpreter](https://img.shields.io/badge/runtime-Tree--Walk-orange.svg)](docs/syntax/_CURRENT_.md)
@@ -323,6 +323,9 @@ v0.9 ── Module System
           │
           ▼
 v1.0 ── Standard Library
+          │
+          ▼
+v1.1 ── LTS Release, Semantic Highlighting & Tooling
 ```
 
 ---
@@ -336,8 +339,8 @@ The NOVA website provides everything needed to learn, explore, and experiment wi
 | 🏠 Home | `https://nova.varundubey.dev` | Project homepage |
 | 🚀 Playground | `https://nova.varundubey.dev/playground` | Run NOVA programs online |
 | 📖 Documentation | `https://nova.varundubey.dev/docs` | Complete language documentation |
-| 📚 Standard Library | `https://nova.varundubey.dev/docs/stdlib` | Standard Library reference |
-| 🔧 Built-in Functions | `https://nova.varundubey.dev/docs/builtins` | Built-in function reference |
+| 📚 Standard Library | `https://nova.varundubey.dev/stdlib` | Standard Library reference |
+| 🔧 Built-in Functions | `https://nova.varundubey.dev/builtins` | Built-in function reference |
 | 💡 Examples | `https://nova.varundubey.dev/examples` | Interactive examples |
 | 📰 Release Notes | `https://nova.varundubey.dev/releases` | Complete release history |
 
